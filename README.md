@@ -1,13 +1,15 @@
-# tarea1p_conociendoLosScaffold
- Tarea 1.p - Conociendo los Scaffold - Programación de Dispositivos Móviles
+# Tarea 1.p - Conociendo los Scaffold - Programación de Dispositivos Móviles 
  
- Video de la aplicación funcionando: https://www.loom.com/share/a6f1e5c482b248b2a6449300cbc2db2a
+### Video de la aplicación funcionando: https://www.loom.com/share/a6f1e5c482b248b2a6449300cbc2db2a
 
-E001
-Tiempo estimado [10 minutos]
-Complejidad: ★
+**E001**
 
-Utilizar un Scaffold. (puntaje maximo 102/100)
+**Tiempo estimado [10 minutos]**
+
+**Complejidad: ★**
+
+**Utilizar un Scaffold.** (puntaje maximo 102/100)
+
 
 Utilizar scaffold dentro de una app para mostrar Snack Bars al hacer clic en el FAB.
 
